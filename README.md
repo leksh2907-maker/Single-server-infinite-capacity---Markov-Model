@@ -52,6 +52,9 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
+<img width="797" height="485" alt="image" src="https://github.com/user-attachments/assets/74a6ae15-6079-4171-bd5e-f8aab250b122" />
+
 
 ## Result :
+the code is excecuted sucessfully
 
